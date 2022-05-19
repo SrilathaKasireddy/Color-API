@@ -1,0 +1,41 @@
+.container{
+
+
+ align-items:center;
+ text-align: center;
+ justify-content: center;
+ background-color:bisque;
+ height:80px;
+ padding-top:2%;
+ margin-bottom:5%;
+ font-weight:bold;
+ 
+}
+
+
+#button{
+ margin-top: 5%;
+ margin-bottom: 5%;
+ margin-left: 5px;
+ transform: skewX(-25deg);
+ transform: skewY(-25deg);
+ border: solid 3px saddlebrown;
+ background-color: bisque;
+ font-weight:bold;
+}
+
+#button:hover{
+
+border-radius: 100%;
+}
+#heading{
+
+text-align: center;
+padding-top:1%;
+background-color:beige;
+padding-bottom: 1%;
+
+}
+
+
+
